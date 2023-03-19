@@ -86,3 +86,5 @@ widget.setFixedWidth(480)
 widget.setFixedHeight(620)
 widget.show()
 app.exec_()
+
+#comentario pedorro nomas para asegurarme de hacer el commit nuevo
